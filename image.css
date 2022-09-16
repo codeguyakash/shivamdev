@@ -1,0 +1,61 @@
+body {
+ 
+    background-position: center;
+    margin: 0px;
+
+}
+
+
+
+
+.card {
+    width: 450px;
+    height: 550px;
+    box-shadow: 4px 4px 20px 1px #dddddd;
+    display: inline-grid;
+    margin: 20px;
+    justify-items: center;
+background-color: white;
+    border-radius: 20px;
+}
+
+.img_3 {
+    width: 450px;
+    height: 450px;
+    border-radius: 20px 20px 0 0;
+}
+
+.father {
+    margin-top: 58px;
+}
+
+.a3 {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin: 8px;
+
+}
+
+.h1 {
+    box-shadow: 4px 4px 20px 1px #dddddd;
+    width: 600px;
+    margin: auto;
+    padding: 0.1px;
+    border-radius: 10px;
+    color: white;
+    background-color: #4582ec;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.a2 {
+    text-decoration: none;
+    color: blue;
+    font-size: medium;
+    margin-top: 2px;
+}

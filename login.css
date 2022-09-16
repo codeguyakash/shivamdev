@@ -1,0 +1,84 @@
+body {
+    background-image: url("/home\ image.jpg");
+    background-color: #fdfdff;
+    background-size: 100%;
+    background-position: center;
+    margin: 0%;
+}
+
+.div_2 {
+    text-align: center;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px 0px;
+    margin: 80px 600px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px 0.1px rgb(167, 167, 167);
+    width: 350px;
+    height: 500px;
+}
+
+.from_input {
+    border-radius: 15px;
+    border: none;
+    width: 85%;
+    height: 10%;
+    box-shadow: 2px 2px 15px 3px rgb(199, 199, 199);
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn1 {
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 2px 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(to left, #12c2e9, #c471ed, #f64f59);
+    background-size: 200%;
+    transition: 0.6s;
+    font-family: 'Edu SA Beginner', cursive;
+    color: white;
+    font-size: 25px;
+    width: 200px;
+    height: 50px;
+}
+
+.btn4 {
+    color: rgb(0, 115, 255);
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 2px 15px;
+    font-size: 20px;
+
+}
+
+.img {
+    border-radius: 50px;
+    box-shadow: 1px 1px 20px 1px rgb(218, 217, 217);
+    margin: 1%;
+}
+
+h1 {
+    color: blueviolet;
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 50px;
+    margin: 2%;
+}
+
+.btn1:hover {
+    background-position: right;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.a2 {
+    text-decoration: none;
+    color: blue;
+    font-size: medium;
+    margin-top: 2px;
+}
